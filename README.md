@@ -18,7 +18,7 @@ To check this project, please follow this steps:
 - Copy the URL for the repository.
 - Open Git Bash.
 - Change the current working directory to the location where you want the cloned directory.
-- Type git clone, and then paste the URL you copied earlier: $ git@github.com:Oklukeok/Leaderboard.git
+- Type git clone, and then paste the URL you copied earlier: $ git@github.com:Oklukeok/Math-magicians.git
 - Press Enter to create your local clone.
 - Open the folder with your integrated development environment (IDE).
 - You can check a live preview opening the HTML with a browser.
