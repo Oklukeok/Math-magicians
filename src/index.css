@@ -25,3 +25,29 @@ code {
     'Courier New',
     monospace;
 }
+
+#App {
+  width: 500px;
+  background-color: aqua;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.appInput {
+  width: 98.5%;
+  height: 100px;
+  font-size: 40px;
+}
+
+.appButton {
+  width: 125px;
+  height: 100px;
+}
+
+.op {
+  background-color: orange;
+}
+
+.appButton:nth-child(18) {
+  width: 250px;
+}
