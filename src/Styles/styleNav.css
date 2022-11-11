@@ -1,0 +1,39 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #333;
+  color: #eee;
+}
+
+.nav-h1 {
+  margin-left: 30px;
+}
+
+.nav-ul {
+  margin-right: 30px;
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  text-decoration: none;
+  color: #eee;
+}
+
+.route-link {
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: large;
+}
+
+.route-link:visited {
+  color: #eee;
+}
+
+.route-link:hover {
+  color: #fedb39;
+}
